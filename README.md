@@ -8,4 +8,4 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
-He couldn't even cry.
+He couldn't even cry as a bachelor who he was but whaled all the way to the docker.
