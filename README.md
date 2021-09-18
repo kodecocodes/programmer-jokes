@@ -1,4 +1,6 @@
-# programmer-jokes
+# small git tutorial
+
+## programmer-jokes
 
 In order to understand recursion you must first understand recursion.
 
