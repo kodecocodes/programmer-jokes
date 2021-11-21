@@ -9,3 +9,4 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 Why did the two functions stop calling each other? Because they had constant arguments.
 
 Why did the programmer quit his job?  Because he did not get Arrays.
+Why did the programmer quit his job?  Because he did not get Arrays.
