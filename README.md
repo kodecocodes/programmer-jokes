@@ -8,5 +8,8 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
- Why couldn’t the confirmed bachelor use Git? Because he was afraid to commit!
- 
+Why couldn’t the confirmed bachelor use Git? Because he was afraid to commit!
+
+Programmer is a machine that turns coffee into code.
+
+Algorithm is the word used by programmers when they do not want to explain what they did.
