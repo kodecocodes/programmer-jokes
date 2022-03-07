@@ -8,4 +8,5 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 Why couldn’t the confirmed bachelor use Git? Because he was afraid to commit!
+A user interface is like a joke. If you have to explain it, it is not that good!
 
