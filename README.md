@@ -8,3 +8,6 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+There are three kinds of lies: Lies, damned lies, and benchmarks
+
+A good programmer is someone who always looks both ways before crossing a one-way street
