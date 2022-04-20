@@ -1,3 +1,5 @@
+Why couldn’t the confirmed bachelor use Git? Because he was afraid to commit!
+
 # programmer-jokes
 
 In order to understand recursion you must first understand recursion.
