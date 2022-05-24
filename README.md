@@ -8,3 +8,5 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+Why the couldn't the confirmed bacheor use Git? Because he was afraid to commit!
+
