@@ -8,3 +8,8 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+What's the object-oriented way to become wealthy? Inheritance..
+
+Why did the programmer quit his job? Because he didn't get arrays...
+
+Why couldn't the confirmed bachelor use Git? Because he was afraid to commit!.. 
