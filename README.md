@@ -1,4 +1,4 @@
-# programmer-jokes
+ programmer-jokes
 
 In order to understand recursion you must first understand recursion.
 
@@ -8,4 +8,4 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
-€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kdqqqqqq€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€kd€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku€ku
+Why couldn¿t the confirmed bachelor use Git? Because he was afraid to commit!
