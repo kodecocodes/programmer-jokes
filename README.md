@@ -8,3 +8,10 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+Why couldn't the confirmed bachelor use Git? Because he was afraid to commit!
+
+Ha ha ha!
+
+I'd like to add a joke everyday!
+
+This line is added on-line from Github.
