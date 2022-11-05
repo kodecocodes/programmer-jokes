@@ -1,4 +1,11 @@
 # programmer-jokes
+ whata load of shit
+
+
+
+
+
+:wq
 
 In order to understand recursion you must first understand recursion.
 
