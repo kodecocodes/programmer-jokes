@@ -8,3 +8,7 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+Joke Number 5:Why did the two functions stop calling each other? Because they had constant arguments.
+
+Joke Number 6: Why did the two functions stop calling each other? Because they had constant arguments.
+
