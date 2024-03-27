@@ -1,5 +1,8 @@
 # programmer-jokes
 
+Why couldn’t the confirmed bachelor use Git? Because he was
+afraid to commit!
+
 In order to understand recursion you must first understand recursion.
 
 There are 10 kinds of people in this world: Those who understand binary, and those who don't.
