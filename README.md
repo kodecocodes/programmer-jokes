@@ -8,3 +8,4 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+There is nothing more timeless than what you have done for a while.
