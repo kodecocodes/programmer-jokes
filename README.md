@@ -8,3 +8,25 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+Why couldn’t the confirmed bachelor use Git? Because he was afraid to commit!
+
+Adding line from feat-joke
+
+adding new line to pull
+
+----- creating conflict -------------
+
+adding new line third time time to pull and update my my-joke branch
+
+Adding line to stash
+
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+
+----- creating conflict from feat-joke -------------
+
+---- resolved conflict all good can push -----
+
