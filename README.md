@@ -8,3 +8,10 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+“If you win you get to exit vim” “What’s the game?” “Exiting vim”
+
+All programmers are playwrights, and all computers are lousy actors.
+
+I’d tell them a UDP joke but there’s no guarantee that they would get it.
+
+Two bytes meet. The first byte asks, “Are you ill?”
