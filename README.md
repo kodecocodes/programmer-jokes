@@ -8,3 +8,7 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+Why couldn’t the confirmed bachelor use Git? Because he was
+afraid to commit!
+
+Three SQL Database Admins walked into a NoSQL bar. A little while later they walked out because they couldn’t find a table.
