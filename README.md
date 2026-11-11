@@ -8,3 +8,8 @@ An SEO expert walked into a bar, pub, liquor store, brewery, alcohol, beer, whis
 
 Why did the two functions stop calling each other? Because they had constant arguments.
 
+Why didn't ChatGPT greet me this morning? Because some had typed `ai_disable 0`
+
+Why couldn't the confirmed bachelor use Git? Because he was afraid to commit!
+
+Why don't Linux users have dinner? Because first grub is eaten by yourself, second grub is shared among friends and third grub is non existent!
